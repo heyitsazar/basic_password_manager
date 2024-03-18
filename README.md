@@ -1,6 +1,7 @@
 # Password Manager using Fernet Encryption
 
 This Python script implements a simple password manager using Fernet encryption, a symmetric encryption algorithm provided by the `cryptography` library.
+Find detailed explanation from my blog post, by clicking [here](https://azarmamiyev.me/projects/password_manager/).
 
 ## Features
 
